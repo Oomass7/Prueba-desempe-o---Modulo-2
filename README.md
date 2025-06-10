@@ -27,3 +27,6 @@ Las etiquetas que utilice fueron las sigueinte: <br>
 ![alt text](./images/image-9.png)
 ![alt text](./images/image-10.png)
 ![alt text](./images/image-11.png)
+
+**Vista previa del codigo**
+![alt text](./images/image12.png)
