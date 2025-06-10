@@ -1,4 +1,7 @@
 **Enlace del repositorio de GitHub** <br>
+https://github.com/Oomass7/Prueba-desempe-o---Modulo-2
+
+**Enlace del GitHub Pages**<br>
 https://oomass7.github.io/Prueba-desempe-o---Modulo-2/
 
 **Informacion del coder** <br>
